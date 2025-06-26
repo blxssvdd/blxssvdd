@@ -14,6 +14,7 @@
 # Frameworks/Libraries:
 > * **Flask**
 > * **Aiogram**
+> * **FastAPI(?)**
 
 ___
 
