@@ -30,7 +30,7 @@ ___
 [![LastFM](https://img.shields.io/badge/Last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white)](https://www.last.fm/user/blxssvd)  
 [![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blxssvdd)
 
-<img align="center" src="https://badges.lastfm.workers.dev/last-played?user=blxssvd&style=for-the-badge&cacheSeconds=30"/></p>
+<img align="center" src="https://badges.lastfm.workers.dev/last-played?user=blxssvd&style=for-the-badge&cacheSeconds=5"/></p>
 
 ___
 
