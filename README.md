@@ -15,6 +15,7 @@
 > * **Flask**
 > * **Aiogram**
 > * **FastAPI(?)**
+> * **SQLAlchemy**
 
 ___
 
