@@ -61,8 +61,10 @@ ___
 [![LastFM](https://img.shields.io/badge/Last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white)](https://www.last.fm/user/blxssvd)  
 [![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blxssvdd)
 
+___
 
 <img align="center" src="https://badges.lastfm.workers.dev/last-played?user=blxssvd&recent=1&style=for-the-badge&cacheSeconds=5"/>
 
+___
 > ### Thank you for checking my profile! Your visit has been counted here:
 > ![Profile View](https://profile-counter.glitch.me/blxssvdd/count.svg)
