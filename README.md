@@ -62,8 +62,8 @@ ___
 [![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blxssvdd)
 
 ### _Now Playing:_
-<img src="https://lastfm-recently-played.vercel.app/api?user=blxssvd&style=for-the-badge&label=Now%20Playing&logo=last.fm&color=red&labelColor=black" />
 
+<img src="https://lastfm-recently-played.vercel.app/api?user=blxssvd&count=1&style=for-the-badge&label=🎵 Last Track&logo=last.fm&color=red&labelColor=black" />
 
 ___
 
