@@ -63,7 +63,7 @@ ___
 
 ### _Now Playing:_
 
-<img src="https://lastfm-recently-played.vercel.app/api?user=blxssvd&count=1&style=for-the-badge&label=🎵 Last Track&logo=last.fm&color=red&labelColor=black" />
+<img src="https://lastfm-recently-played.vercel.app/api?user=blxssvd&lifetime=1"/>
 
 ___
 
