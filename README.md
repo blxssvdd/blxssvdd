@@ -63,7 +63,7 @@ ___
 
 ### 🎵 Now Playing
 
-<img src="https://lastfm-recently-played.vercel.app/api?user=blxssvd&unique=1&width=400"/>  
+<img src="https://lastfm-recently-played.vercel.app/api?user=blxssvd&unique=1&compact=1"/>  
 
 ___
 
