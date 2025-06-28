@@ -61,8 +61,7 @@ ___
 [![LastFM](https://img.shields.io/badge/Last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white)](https://www.last.fm/user/blxssvd)  
 [![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blxssvdd)
 
-### 🎵 Now Playing  
-<img src="https://lastfm-recently-played.vercel.app/api?user=blxssvd&unique=1&width=400"/>  
+<img src="https://lastfm-badge.vercel.app/api?user=blxssvd&type=now-playing"/>   
 ___
 
 > ### Thank you for checking my profile! Your visit has been counted here:
