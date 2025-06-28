@@ -36,12 +36,13 @@ ___
 
 ___
 
-### 🎧 Favorite Bands:
+### 🎧 Favorite Bands/Music:
 > * **Slipknot**  
 > * **Bring Me The Horizon**  
 > * **The Living Tombstone**  
 > * **Skillet**  
 > * **Deftones**
+> * **MGMT❤️**
 
 ___
 
