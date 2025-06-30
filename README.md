@@ -43,16 +43,18 @@ ___
 > * **Skillet**  
 > * **Deftones**
 > * **MGMT❤️**
+> * **Korn**
 
 ___
 
 ### 🎮 Favorite Games:
 > * **Dark Souls I, II, III**  
 > * **Elden Ring**  
-> * **Hollow Knight**  
+> * **Hollow Knight** 
+> * **S.T.A.L.K.E.R 2: Heart of Chornobyl**
+> * **DOOM (all parts)**
 > * **Red Dead Redemption 2**
 > * **GTA V**
-> * **Outlast, Outlast 2**
 > * **Minecraft**
 
 
