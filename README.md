@@ -51,6 +51,9 @@ ___
 > * **Elden Ring**  
 > * **Hollow Knight**  
 > * **Red Dead Redemption 2**
+> * **GTA V**
+> * **Outlast, Outlast 2**
+> * **Minecraft**
 
 
 ___
