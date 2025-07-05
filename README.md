@@ -56,7 +56,7 @@ ___
 > * **DOOM (all parts)**
 > * **Red Dead Redemption 2**
 > * **GTA V**
-> * **Minecraft**
+> * **Geometry Dash**
 
 
 ___
