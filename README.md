@@ -15,7 +15,7 @@
 # Frameworks/Libraries:
 > * **Flask**
 > * **Aiogram**
-> * **FastAPI(?)**
+> * **FastAPI**
 > * **SQLAlchemy**
 
 
