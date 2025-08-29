@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm BLXSSVD</h1>
+<h1 align="center">Hi 👋, I'm blxssvd</h1>
 <h3 align="center">Python Developer, loves music, anime & manga and games.</h3>
 
 ---
