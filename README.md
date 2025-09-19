@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://media1.tenor.com/m/GGYUbfu2z6EAAAAC/anime-rimuru.gif" alt="Rimuru GIF"/>
+</p>
 <h1 align="center">Hi 👋, I'm blxssvd</h1>
 <h3 align="center">Python Developer, loves music, anime & manga and games.</h3>
 
