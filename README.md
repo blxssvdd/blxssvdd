@@ -53,16 +53,17 @@ ___
 > * **The Living Tombstone**  
 > * **Skillet**  
 > * **Deftones**
-> * **MGMT❤️**
+> * **MGMT**
 > * **Korn**
 
 ___
 
 ### 🎮 Favorite Games:
-> * **Dark Souls I, II, III**  
-> * **Elden Ring**  
-> * **Hollow Knight** 
+> * **Dark Souls I, II, III** 
+> * **Elden Ring**
+> * **Hollow Knight**
 > * **S.T.A.L.K.E.R 2: Heart of Chornobyl**
+> * **Ready Or Not**
 > * **DOOM (all parts)**
 > * **Red Dead Redemption 2**
 > * **GTA V**
