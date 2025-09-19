@@ -91,9 +91,4 @@ ___
   <img src="https://streak-stats.demolab.com?user=blxssvdd&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/blxssvdd/blxssvdd/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</p>
-
-
 <img align="center" src="https://badges.lastfm.workers.dev/last-played?user=blxssvd&recent=1&style=for-the-badge&cacheSeconds=120"/>
