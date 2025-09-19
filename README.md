@@ -3,9 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://i.ibb.co/zsHfwnD/divider-gif.gif" width="600"/>
-</p>
-<p align="center">
   <em>"Even if I'm reborn as a slime, I'll still find a way to live free."</em>  
   <br>– Rimuru Tempest 🌀
 </p>
