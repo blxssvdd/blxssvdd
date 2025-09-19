@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://tenor.com/SW7Pvav3f1.gif" alt="Rimuru GIF"/>
+  <img src="https://media1.tenor.com/m/CGoW4TlGH78AAAAd/rimuru-rimuru-tempest.gif" alt="Rimuru GIF"/>
 </p>
 
 <p align="center">
