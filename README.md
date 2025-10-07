@@ -28,7 +28,6 @@
 > * **Discord.py**
 > * **Requests**
 > * **Asyncio**
-
 > * **SQLAlchemy**
 
 
