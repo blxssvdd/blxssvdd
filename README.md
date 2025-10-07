@@ -23,11 +23,12 @@
 
 # Frameworks/Libraries:
 > * **Flask**
+> * **FastAPI**
 > * **Aiogram**
 > * **Discord.py**
 > * **Requests**
 > * **Asyncio**
-> * **FastAPI**
+
 > * **SQLAlchemy**
 
 
