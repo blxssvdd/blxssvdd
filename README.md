@@ -24,6 +24,8 @@
 # Frameworks/Libraries:
 > * **Flask**
 > * **Aiogram**
+> * **Discord.py**
+> * **Requests**
 > * **Asyncio**
 > * **FastAPI**
 > * **SQLAlchemy**
