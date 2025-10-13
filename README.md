@@ -63,7 +63,8 @@ ___
 ___
 
 ### 🎮 Favorite Games:
-> * **Dark Souls I, II, III** 
+> * **Dark Souls I, II, III**
+> * **Sekiro: Shadows Die Twice**
 > * **Elden Ring**
 > * **Hollow Knight**
 > * **S.T.A.L.K.E.R 2: Heart of Chornobyl**
