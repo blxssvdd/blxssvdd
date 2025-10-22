@@ -36,7 +36,6 @@ ___
 
 # Workplace/Utils:
 > * **Visual Studio Code**
-> * **Postman**
 > * **DBeaver**
 
 ___
