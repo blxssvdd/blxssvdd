@@ -24,6 +24,7 @@
 # Frameworks/Libraries:
 > * **Flask**
 > * **FastAPI**
+> * **Django**
 > * **Aiogram**
 > * **Discord.py**
 > * **Requests**
