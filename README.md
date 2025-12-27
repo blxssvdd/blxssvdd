@@ -88,14 +88,6 @@ ___
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blxssvdd&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=blxssvdd&theme=darkhub&no-frame=true&margin-w=15&row=1&column=6" alt="Trophies"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blxssvdd&layout=compact&theme=tokyonight" alt="Top Langs"/>
 </p>
 
