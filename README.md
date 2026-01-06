@@ -85,10 +85,4 @@ ___
 
 ___
 
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blxssvdd&layout=compact&theme=tokyonight" alt="Top Langs"/>
-</p>
-
 <img align="center" src="https://badges.lastfm.workers.dev/last-played?user=blxssvd&recent=1&style=for-the-badge&cacheSeconds=120"/>
