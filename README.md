@@ -1,5 +1,6 @@
+<p align="center">
 <img src="https://i.pinimg.com/736x/4a/b2/4a/4ab24a8b674ce7aca305ef3377d2c69b.jpg" width="300" alt="Rimuru">
-
+</p>
 
 <h1 align="center">Hi 👋, I'm blessy!!</h1>
 <h3 align="center">Python Developer, loves music, anime & manga and games.</h3>
