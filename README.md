@@ -1,10 +1,8 @@
-<p align="center">
-<img src="image-removebg-preview.png" width="300" alt="Rimuru">
-</p>
-
-<h1 align="center">Hi 👋, I'm blessy!!</h1>
-<h3 align="center">Python Developer, loves music, anime & manga and games.</h3>
-
+<div align="center">
+  <img src="image-removebg-preview.png" width="250" alt="Rimuru">
+  <h1>Hi 👋, I'm blessy!!</h1>
+  <p>Python Developer, loves music, anime & manga and games.</p>
+</div>
 ---
 
 ### My languages :
