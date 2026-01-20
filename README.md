@@ -1,12 +1,3 @@
-<p align="center">
-  <img src="https://media1.tenor.com/m/CGoW4TlGH78AAAAd/rimuru-rimuru-tempest.gif" alt="Rimuru GIF"/>
-</p>
-
-<p align="center">
-  <em>"Even if I'm reborn as a slime, I'll still find a way to live free."</em>  
-  <br>– Rimuru Tempest 🌀
-</p>
-
 <h1 align="center">Hi 👋, I'm blessy!!</h1>
 <h3 align="center">Python Developer, loves music, anime & manga and games.</h3>
 
