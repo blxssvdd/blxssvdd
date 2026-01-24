@@ -3,7 +3,7 @@
   <h1>Hi 👋, I'm blessy!!</h1>
   <p>Python Developer, loves music, anime & manga and games.</p>
 </div>
----
+
 
 ### My languages :
 | Python |
