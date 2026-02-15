@@ -12,6 +12,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&lines=🕞+Started+coding+in+February+2024.+++" alt="Typing SVG" width="600" height="100"/>
 
+___
+
 
 ### 🛠️ Tech Stack & Tools
 
