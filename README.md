@@ -50,5 +50,5 @@ ___
 > ### Thank you for looking at the profile, and your view is one of them:
 > ![hz](https://komarev.com/ghpvc/?username=blxssvdd&style=for-the-badge)
 
-> ### What I listened to last:
+
 <img align="center" src="https://badges.lastfm.workers.dev/last-played?user=blxssvd&recent=1&style=for-the-badge&cacheSeconds=120"/>
