@@ -37,7 +37,7 @@ ___
 ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-
+___
 
 ### _My Social Media Profiles:_ 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1007074248621301880)
@@ -50,4 +50,5 @@ ___
 > ### Thank you for looking at the profile, and your view is one of them:
 > ![hz](https://komarev.com/ghpvc/?username=blxssvdd&style=for-the-badge)
 
+> ### What I listened to last:
 <img align="center" src="https://badges.lastfm.workers.dev/last-played?user=blxssvd&recent=1&style=for-the-badge&cacheSeconds=120"/>
