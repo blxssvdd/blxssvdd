@@ -1,7 +1,7 @@
 <div align="center">
   <img src="rimuru remove bg.png" width="250" alt="Rimuru">
   <h1>Hi 👋, I'm blessy!!</h1>
-  <p>Python Developer/Backend Developer</p>
+  <p>Python/Backend Developer</p>
 </div>
 
 
