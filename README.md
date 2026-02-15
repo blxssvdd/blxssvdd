@@ -42,35 +42,6 @@ ___
 
 
 
-
-___
-
-### 🎧 Favorite Bands/Music:
-> * **Slipknot**  
-> * **Bring Me The Horizon**  
-> * **The Living Tombstone**  
-> * **Skillet**  
-> * **Deftones**
-> * **MGMT**
-> * **Korn**
-
-___
-
-### 🎮 Favorite Games:
-> * **Dark Souls I, II, III**
-> * **Sekiro: Shadows Die Twice**
-> * **Elden Ring**
-> * **Hollow Knight**
-> * **S.T.A.L.K.E.R 2: Heart of Chornobyl**
-> * **Ready Or Not**
-> * **DOOM (all parts)**
-> * **Red Dead Redemption 2**
-> * **GTA V**
-> * **Geometry Dash**
-
-
-___
-
 ### _My Social Media Profiles:_ 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1007074248621301880)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/blxssvddv)
@@ -78,5 +49,9 @@ ___
 [![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blxssvdd)
 
 ___
+
+> ### Thank you for looking at the profile, and your view is one of them:
+> ![hz](https://komarev.com/ghpvc/?username=blxssvdd&style=for-the-badge)
+> 
 
 <img align="center" src="https://badges.lastfm.workers.dev/last-played?user=blxssvd&recent=1&style=for-the-badge&cacheSeconds=120"/>
