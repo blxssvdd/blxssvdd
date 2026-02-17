@@ -10,7 +10,7 @@
 |--------|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg" width=100> |
 
-<img src="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&lines=🕞+Started+coding+in+February+20..?.+++" alt="Typing SVG" width="600" height="100"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&lines=🕞+Started+coding+in+February+20...+++" alt="Typing SVG" width="600" height="100"/>
 
 ___
 
