@@ -43,7 +43,7 @@ ___
 ___
 
 ### _My Social Media Profiles:_ 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1007074248621301880)
+[![Discord(blxssvd)](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1007074248621301880)
 [![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blxssvdd)
 
 ___
