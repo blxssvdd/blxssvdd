@@ -208,6 +208,10 @@
       {
         "icon": "brand:spotify",
         "url": "https://open.spotify.com/user/kc8f8euuvl5kzr1e38qd4dw0o?si=eecb86c5a3344873"
+      },
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/AlstonLiam"
       }
     ],
     "variant": "chip",
