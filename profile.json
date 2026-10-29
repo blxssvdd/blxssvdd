@@ -18,7 +18,8 @@
     "buttons"
   ],
   "hidden": [
-    "wave"
+    "wave",
+    "socials"
   ],
   "hero": {
     "greeting": "Hi, I'm",
