@@ -1,56 +1,23 @@
 <div align="center">
-  <img src="rimuru remove bg.png" width="250" alt="Rimuru">
-  <h1>Hi 👋, I'm blessy!!</h1>
-  <p>Python/Backend Developer</p>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m blessy"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="17.180%" alt=""></picture><a href=".v1rl"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="16.552%" alt="discord"></picture></a><a href="https://www.tiktok.com/@blvssxdv"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="15.488%" alt="tiktok"></picture></a><a href="https://www.youtube.com/@blxssvdd"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-3-dark.svg"><img src="assets/social-3-light.svg" width="17.583%" alt="youtube"></picture></a><a href="https://open.spotify.com/user/kc8f8euuvl5kzr1e38qd4dw0o?si=eecb86c5a3344873"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-4-dark.svg"><img src="assets/social-4-light.svg" width="16.011%" alt="spotify"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="17.180%" alt=""></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
+
+<a href="https://github.com/blxssvdd/HandTrackingPaint"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-handtrackingpaint-dark.svg"><img src="assets/project-handtrackingpaint-light.svg" width="49%" alt="HandTrackingPaint"></picture></a>&nbsp;<a href="https://github.com/blxssvdd/SchoolHub"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-schoolhub-dark.svg"><img src="assets/project-schoolhub-light.svg" width="49%" alt="SchoolHub"></picture></a>
+
+<a href="https://github.com/blxssvdd/Django-tournaments"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-django-tournaments-dark.svg"><img src="assets/project-django-tournaments-light.svg" width="49%" alt="Django-tournaments"></picture></a>&nbsp;<a href="https://github.com/blxssvdd/BirthdayTelegramBot"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-birthdaytelegrambot-dark.svg"><img src="assets/project-birthdaytelegrambot-light.svg" width="49%" alt="BirthdayTelegramBot"></picture></a>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
+
+<a href="https://blxssvdd.github.io/blessy-portfolio/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="My website"></picture></a>&nbsp;&nbsp;<a href="https://github.com/blxssvdd?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="auto" alt="All repositories"></picture></a>
+
+<a href="https://metawka.github.io/expressive-profile/?from=blxssvdd"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
+
 </div>
-
-
-### My languages :
-| Python |
-|--------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg" width=100> |
-
-<img src="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&lines=🕞+Started+coding+in+February+2022+++" alt="Typing SVG" width="600" height="100"/>
-
-___
-
-
-### 🛠️ Tech Stack & Tools
-
-**Backend & Frameworks** <br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlite&logoColor=white)
-![Aiogram](https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![Discord.py](https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-5865F2?style=for-the-badge&logo=python&logoColor=white)
-![Requests](https://img.shields.io/badge/Requests-5865F2?style=for-the-badge&logo=python&logoColor=white)
-
-
-**Frontend & Markup** <br>
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
-**Tools & Workplace** <br>
-![VS_Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-___
-
-### _My Social Media Profiles:_ 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1007074248621301880)
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=icloud&logoColor=white)](https://blessy.space)
-[![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blxssvdd)
-
-___
-
-> ### Thank you for looking at the profile, and your view is one of them:
-> ![hz](https://komarev.com/ghpvc/?username=blxssvdd&style=for-the-badge)
-
-
-<img align="center" src="https://badges.lastfm.workers.dev/last-played?user=blxssvd&recent=1&style=for-the-badge&cacheSeconds=120"/>

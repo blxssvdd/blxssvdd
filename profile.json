@@ -1,0 +1,237 @@
+{
+  "version": 1,
+  "login": "blxssvdd",
+  "seed": "#5C7CFF",
+  "seedFromAvatar": false,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [
+    "wave"
+  ],
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "blessy",
+    "subtitle": "just a tech <3",
+    "typing": true,
+    "avatarShape": "cookie",
+    "chips": []
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Developer & software enthusiast"
+      },
+      {
+        "icon": "code",
+        "label": "Building projects and exploring new technologies"
+      },
+      {
+        "icon": "palette",
+        "label": "Focused on clean code and thoughtful design"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Backend",
+        "items": [
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "brand:fastapi",
+            "label": "FastAPI"
+          },
+          {
+            "icon": "brand:flask",
+            "label": "Flask"
+          },
+          {
+            "icon": "brand:django",
+            "label": "Django"
+          },
+          {
+            "icon": "brand:sqlalchemy",
+            "label": "SQLAlchemy"
+          },
+          {
+            "icon": "brand:sqlite",
+            "label": "SQL"
+          },
+          {
+            "icon": "brand:mysql",
+            "label": "MySQL"
+          },
+          {
+            "icon": "brand:postgresql",
+            "label": " PostgreSQL"
+          },
+          {
+            "icon": "brand:nodedotjs",
+            "label": "Node.js"
+          }
+        ]
+      },
+      {
+        "title": "Frontend / Markup",
+        "items": [
+          {
+            "icon": "brand:javascript",
+            "label": "JavaScript"
+          },
+          {
+            "icon": "brand:typescript",
+            "label": "TypeScript"
+          },
+          {
+            "icon": "brand:html5",
+            "label": "HTML"
+          },
+          {
+            "icon": "brand:css",
+            "label": "CSS"
+          },
+          {
+            "icon": "brand:markdown",
+            "label": "Markdown"
+          },
+          {
+            "icon": "brand:react",
+            "label": "React"
+          },
+          {
+            "icon": "brand:vuedotjs",
+            "label": "Vue.js"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "window",
+            "label": "Windows"
+          },
+          {
+            "icon": "brand:claudecode",
+            "label": "AI"
+          },
+          {
+            "icon": "brand:docker",
+            "label": "Docker"
+          },
+          {
+            "icon": "brand:github",
+            "label": "Github"
+          },
+          {
+            "icon": "brand:postman",
+            "label": "Postman"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "HandTrackingPaint",
+      "SchoolHub",
+      "Django-tournaments",
+      "BirthdayTelegramBot"
+    ],
+    "overrides": {
+      "HandTrackingPaint": {
+        "text": "A small computer vision project for drawing on a virtual canvas using hand gestures. "
+      },
+      "SchoolHub": {
+        "text": "SchoolHub is a comprehensive Django-based web application designed to streamline various administrative and organization"
+      },
+      "Django-tournaments": {
+        "text": "Tournament Arena is a Django web application for organizing tournaments, teams, and player rosters with social authentic"
+      },
+      "BirthdayTelegramBot": {
+        "text": "A Telegram bot to track the days until your birthday, with time zone support and a beautiful calendar."
+      }
+    },
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:discord",
+        "url": ".v1rl"
+      },
+      {
+        "icon": "brand:tiktok",
+        "url": "https://www.tiktok.com/@blvssxdv"
+      },
+      {
+        "icon": "brand:youtube",
+        "url": "https://www.youtube.com/@blxssvdd"
+      },
+      {
+        "icon": "brand:spotify",
+        "url": "https://open.spotify.com/user/kc8f8euuvl5kzr1e38qd4dw0o?si=eecb86c5a3344873"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "My website",
+        "url": "https://blxssvdd.github.io/blessy-portfolio/",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "https://github.com/blxssvdd?tab=repositories",
+        "style": "tonal"
+      }
+    ]
+  }
+}
