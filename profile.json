@@ -198,12 +198,12 @@
   "socials": {
     "items": [
       {
-        "icon": "brand:tiktok",
-        "url": "https://www.tiktok.com/@blvssxdv"
-      },
-      {
         "icon": "brand:youtube",
         "url": "https://www.youtube.com/@blxssvdd"
+      },
+      {
+        "icon": "brand:tiktok",
+        "url": "https://www.tiktok.com/@blvssxdv"
       },
       {
         "icon": "brand:spotify",
